@@ -1,2 +1,2 @@
 # prguzunsoy
-Uzunsoy Programları Paylaştığım Ve Projelerimi Koyduğum Yerdir
+Yaptığım Yazılımları Ve Projeleri Koyduğum Yerdir. Daha Fazlası Dileği İle
